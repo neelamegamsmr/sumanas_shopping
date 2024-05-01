@@ -30,10 +30,9 @@ Route::get('/', function () {
 
 Route::middleware('auth:web')->group(function () {
     Route::get('/products', [ProductController::class, 'index'])->name('products.index');
-    Route::post('/checkout', [PaymentController::class, 'checkout'])->name('products.checkout');
     Route::get('/payment/{string}', [PaymentController::class, 'checkoutPayment'])->name('goToPayment');
     Route::post('payment/process-payment/{string}/{price}', [PaymentController::class, 'processPayment'])->name('processPayment');
-    Route::get('/paymentsucess', function () {
+    Route::get('/paymentsuccess', function () {
         return view("products.success");
     })->name('products.success');
 });
