@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Product 1",
+        "image": "https://fastly.picsum.photos/id/26/4209/2769.jpg?hmac=vcInmowFvPCyKGtV7Vfh7zWcA_Z0kStrPDW3ppP0iGI",
+        "description": "Description for Product 1",
+        "price": 10
+    },
+    {
+        "name": "Product 2",
+        "image": "https://fastly.picsum.photos/id/20/3670/2462.jpg?hmac=CmQ0ln-k5ZqkdtLvVO23LjVAEabZQx2wOaT4pyeG10I",
+        "description": "Description for Product 2",
+        "price": 20
+    },
+    {
+        "name": "Product 3",
+        "image": "https://fastly.picsum.photos/id/8/5000/3333.jpg?hmac=OeG5ufhPYQBd6Rx1TAldAuF92lhCzAhKQKttGfawWuA",
+        "description": "Description for Product 3",
+        "price": 30
+    },
+    {
+        "name": "Product 4",
+        "image": "https://fastly.picsum.photos/id/36/4179/2790.jpg?hmac=OCuYYm0PkDCMwxWhrtoSefG5UDir4O0XCcR2x-aSPjs",
+        "description": "Description for Product 4",
+        "price": 40
+    },
+    {
+        "name": "Product 5",
+        "image": "https://fastly.picsum.photos/id/60/1920/1200.jpg?hmac=fAMNjl4E_sG_WNUjdU39Kald5QAHQMh-_-TsIbbeDNI",
+        "description": "Description for Product 5",
+        "price": 50
+    },
+    {
+        "name": "Product 6",
+        "image": "https://fastly.picsum.photos/id/180/2400/1600.jpg?hmac=Ig-CXcpNdmh51k3kXpNqNqcDYTwXCIaonYiBOnLXBb8",
+        "description": "Description for Product 6",
+        "price": 60
+    }
+]
